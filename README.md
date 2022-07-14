@@ -4,7 +4,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.google.com/search?q=developer+gif&rlz=1C1CHBF_enIN923IN924&sxsrf=ALiCzsZcUzAVl1JqKZGzkYn2L0LQwISdjA:1657792226682&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjfiaGmjfj4AhV-R2wGHfEABloQ_AUoAXoECAEQAw&biw=1920&bih=929&dpr=1#imgrc=afZ6IsRjzpcYIM">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritam1924" alt="pritam1924" /></a> </p>
 
 - 🔭 I’m currently working on **web development**
 
@@ -14,7 +13,7 @@
 
 - 📫 How to reach me **pritamangul@gmail.com**
 
-- ⚡ Fun fact **I love to play with girls**
+- ⚡ Fun fact **I love to play games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
